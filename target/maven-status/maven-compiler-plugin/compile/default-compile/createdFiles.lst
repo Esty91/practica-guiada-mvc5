@@ -1,0 +1,3 @@
+com\companyname\springapp\web\SpringappWebConfig.class
+com\companyname\springapp\SpringappWebApplicationInitializer.class
+com\companyname\springapp\business\SpringappBusinessConfig.class
